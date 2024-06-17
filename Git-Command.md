@@ -38,7 +38,7 @@
  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/d6ae3260-4b00-47e2-a51c-d7fd240748ad" width = "800" height = "150"/>
 
  - <p>If you have multiple files are ready to commit</p>
- <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/d2cc0b87-d8d1-47c8-9225-7a17052fcfb7" width = "800" height = "150"/>
+ <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/d2cc0b87-d8d1-47c8-9225-7a17052fcfb7" width = "800" height = "170"/>
 
  ### **git add <file name/>**
  <p>Lets you add files to your index.</p>
@@ -46,7 +46,7 @@
 
   - <p>If you have multiple files to add</p>
   #### **git add -A**
-  <img src = "" width = "" height = ""/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/99000c40-70eb-4faa-afa8-58b35bfd7129" width = "700" height = "40"/>
   
  ### **git commit -m <message or comment\>**
  <p>It refers to recording snapshots of the repository at a given time.</p>
