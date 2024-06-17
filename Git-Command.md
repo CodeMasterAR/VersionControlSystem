@@ -55,5 +55,5 @@
 
   - <p>If you have multiple files to commit</p>
   #### **git commit -a -m <message or comment\>**
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/6452d7cb-cb8e-4288-96e3-01d704c665b7" width = "800" height = "100"/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/6452d7cb-cb8e-4288-96e3-01d704c665b7" width = "800" height = "120"/>
   
