@@ -12,3 +12,6 @@
 ## Git Operations and commands
 
 ![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/58dec06f-27c9-4b32-996f-38ec3fca7afe)
+
+### 1) Create Repository
+![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a748f56e-6696-4a27-8f5c-a82edd146ea0)
