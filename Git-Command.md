@@ -73,7 +73,7 @@
   
   >>#### **git checkout <branch-name\>**
   >><p>Using this command you can switch one current branch to given branch</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a0162c5a-d64a-4c37-af48-a468ef5be6b9" width = "700" height = "40"/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a0162c5a-d64a-4c37-af48-a468ef5be6b9" width = "700" height = "50"/>
   
   #### _2) Merging_
   #### _3) Rebaing_
