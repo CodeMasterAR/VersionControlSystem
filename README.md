@@ -6,4 +6,16 @@
 ### Why Version control?
 - Version control system provide you with a shared workspace and it continuasly tells you who has made what kind of change or and what has benn changed so you will always get notified if someone has made change in your project. So with version control system the collaboration is the page between all the developers and you can visualize everyone's work properly.
 1) Storing the versions
-2)
+2) Backup
+3) Analyze
+   - VCS provides you with proper description
+   - What exactly was changed
+   - What it was changed
+
+### Available Version control System tools
+  1) Git
+  2) Subversion
+  3) CVS
+  4) Mercurial
+
+
