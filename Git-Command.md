@@ -5,7 +5,7 @@
   - <p>First Create the repository in github. I have created VersionControlSystem repository.</p>
    
     ### **git init**
-    <p>USING this command you can create local repository in your desktop in Version_Control_System folder.</p>
+    <p>Using this command you can create local repository in your desktop in Version_Control_System folder.</p>
     <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/319674df-83eb-435a-b0bb-3d64d117bf80" width = "700" height = "60"/>
 
 ## Syncing Repository
@@ -24,6 +24,8 @@
     <p>Using this command you can check the already exists url</p>
     <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a86232a6-5286-4ef0-9b27-2cec07cfccc5" width = "700" height = "80"/>
 
-    
+    ### **git remote set-url origin <correct-url\>**
+    <p>Using this command you can set correct url in to add origin</p>
+    <img src = "" width = "" height = ""/>
 
     
