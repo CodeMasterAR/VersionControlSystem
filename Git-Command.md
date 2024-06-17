@@ -69,6 +69,7 @@
 
   >><p>Branches are pointers to a specific commit.</p>
   >><p>Branches are of two types: </p>
+  
   >>- <p>Local branches</p>
   >>- <p>Remote-tracking branches</p>
   
