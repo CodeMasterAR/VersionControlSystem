@@ -17,7 +17,7 @@
     <p>Using this command you can sync remote repository with your local repository.</p>
     <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/27b35874-36bc-41cd-8416-0347e35f056a" width = "900" height = "50"/>
 
-  - <p>If you found error like below: </p>
+    - <p>If you found error like below: </p>
     <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/b7fd67e2-1aa2-4719-ab2f-fbbea5e06050" width = "900" height = "60"/>
     
     ### **git remote -v**
@@ -30,7 +30,7 @@
 
 ## Making Changes
 
-  <h3>1) git status</h3>
+  <h5>1) git status</h5>
 
   ### **git status**
   <p>Tells you which files are added to index and are ready to commit.</p>
