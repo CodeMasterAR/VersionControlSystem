@@ -26,4 +26,4 @@
 
     ### **git remote set-url origin <correct-url\>**
     <p>Using this command you can set correct url in to add origin</p>
-    <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/44465628-34d1-45fc-b52f-b7bb69883294" width = "900" height = "50"/>
+    <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/44465628-34d1-45fc-b52f-b7bb69883294" width = "800" height = "40"/>
