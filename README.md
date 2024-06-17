@@ -19,4 +19,14 @@
   4) Mercurial
 
 ### Git and GitHub
-   ![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9f6c068f-7d19-4d8f-bb39-ce4a97821fdc)
+   ![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/7bb068cf-adfd-4b7f-94e1-fadb80734b10)
+
+### What is Git?
+   - Git is a distributed version control system tool that supports distributed non-linear workflows by providing data assurance for developing quality software.
+
+### Features of git
+   1) Distributed         6) Open Source
+   2) Compatible          7) Speed
+   3) Non - Linear        8) Reliable
+   4) Branching           9) Secure
+   5) Lightweight         10) Economical
