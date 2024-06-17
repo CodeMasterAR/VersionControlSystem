@@ -69,8 +69,8 @@
 
   >><p>Branches are pointers to a specific commit.</p>
   >><p>Branches are of two types: </p>
-  >> - Local branches
-  >> - Remote-tracking branches
+  >> - <p>Local branches</p>
+  >> - <p>Remote-tracking branches</p>
   >>#### **git branch <branch-name\>**
   >><p>Using this command you can create the new branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/b64c0628-91e5-4d8e-a671-5e92b4b9815a" width = "700" height = "40"/>
