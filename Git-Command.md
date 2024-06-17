@@ -30,19 +30,26 @@
 
 ## Making Changes
 
-  ### **git status**
-  <p>Tells you which files are added to index and are ready to commit.</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/4140dcb2-01d9-468d-9c80-9244e1992ced" width = "900" height = "170"/>
+ ### **git status**
+ <p>Tells you which files are added to index and are ready to commit.</p>
+ <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/4140dcb2-01d9-468d-9c80-9244e1992ced" width = "900" height = "170"/>
 
-  - <p>After adding the file to index</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/d6ae3260-4b00-47e2-a51c-d7fd240748ad" width = "800" height = "150"/>
+ - <p>After adding the file to index</p>
+ <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/d6ae3260-4b00-47e2-a51c-d7fd240748ad" width = "800" height = "150"/>
 
-  ### **git add**
-  <p>Lets you add files to your index.</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9c11fc00-4cd7-445f-a354-c0be1908c0d3" width = "700" height = "40"/>
+ - <p>If you have multiple files are ready to commit</p>
+ <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/d2cc0b87-d8d1-47c8-9225-7a17052fcfb7" width = "800" height = "150"/>
 
-  ### **git commit -m <message or comment\>**
-  <p>It refers to recording snapshots of the repository at a given time.</p>
-  <p>Commited snapshots will never change unless done explicitly</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/8fb6a276-f88e-416b-8dc7-4410174dad2b" width = "800" height = "100"/>
+ ### **git add <file name/>**
+ <p>Lets you add files to your index.</p>
+ <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9c11fc00-4cd7-445f-a354-c0be1908c0d3" width = "700" height = "40"/>
+
+  - <p>If you have multiple files to add</p>
+  #### **git add -A**
+  <img src = "" width = "" height = ""/>
+  
+ ### **git commit -m <message or comment\>**
+ <p>It refers to recording snapshots of the repository at a given time.</p>
+ <p>Commited snapshots will never change unless done explicitly</p>
+ <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/8fb6a276-f88e-416b-8dc7-4410174dad2b" width = "800" height = "100"/>
   
