@@ -30,7 +30,7 @@
 
 ## Making Changes
 
-  <h4>1) git status</h4>
+  #### 1) git status
   
   #### **git status**
   <p>Tells you which files are added to index and are ready to commit.</p>
@@ -42,7 +42,7 @@
   - <p>If you have multiple files are ready to commit</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/d2cc0b87-d8d1-47c8-9225-7a17052fcfb7" width = "800" height = "170"/>
   
-  <h4>2) git add</h4>
+  #### 2) git add
     
   #### **git add <file name\>**
   <p>Lets you add files to your index.</p>
@@ -52,7 +52,7 @@
   #### **git add -A**
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/99000c40-70eb-4faa-afa8-58b35bfd7129" width = "700" height = "40"/>
   
-  <h4>3) git commit</h4>
+  #### 3) git commit
     
   #### **git commit -m <message or comment\>**
   <p>It refers to recording snapshots of the repository at a given time.</p>
