@@ -60,7 +60,7 @@
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/8fb6a276-f88e-416b-8dc7-4410174dad2b" width = "800" height = "100"/>
   
   >>- <p>If you have multiple files to commit</p>
-    >>#### **git commit -a -m <message or comment\>**
+  >>#### **git commit -a -m <message or comment\>**
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/6452d7cb-cb8e-4288-96e3-01d704c665b7" width = "800" height = "120"/>
   
 ## Parallel Development
