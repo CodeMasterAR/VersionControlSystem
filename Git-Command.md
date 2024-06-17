@@ -32,11 +32,14 @@
 
   ### **git status**
   <p>Tells you which files are added to index and are ready to commit.</p>
-  <img src = "" width = "" height = ""/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/4140dcb2-01d9-468d-9c80-9244e1992ced" width = "900" height = "150"/>er 
+
+  - <p>After adding the file to index</p>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/d6ae3260-4b00-47e2-a51c-d7fd240748ad" width = "800" height = "150"/>
 
   ### **git add**
   <p>Lets you add files to your index.</p>
-  <img src = "" width = "" height = ""/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9c11fc00-4cd7-445f-a354-c0be1908c0d3" width = "700" height = "40"/>
 
   ### **git commit -m <message or comment\>**
   <p>It refers to recording snapshots of the repository at a given time.</p>
