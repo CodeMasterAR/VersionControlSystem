@@ -10,3 +10,5 @@
 ![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/2361f709-f664-41c6-adf6-a250969cb156)
 
 ## Git Operations and commands
+
+![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/58dec06f-27c9-4b32-996f-38ec3fca7afe)
