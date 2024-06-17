@@ -25,8 +25,13 @@
    - Git is a distributed version control system tool that supports distributed non-linear workflows by providing data assurance for developing quality software.
 
 ### Features of git
-   1) Distributed         6) Open Source
-   2) Compatible          7) Speed
-   3) Non - Linear        8) Reliable
-   4) Branching           9) Secure
-   5) Lightweight         10) Economical
+   1) Distributed
+   2) Compatible
+   3) Non - Linear
+   4) Branching
+   5) Lightweight
+   6) Open Source
+   7) Speed
+   8) Reliable
+   9) Secure
+   10) Economical
