@@ -69,8 +69,9 @@
 
   >><p>Branches are pointers to a specific commit.</p>
   >><p>Branches are of two types: </p>
-  >> - <p>Local branches</p>
-  >> - <p>Remote-tracking branches</p>
+  >>- <p>Local branches</p>
+  >>- <p>Remote-tracking branches</p>
+  
   >>#### **git branch <branch-name\>**
   >><p>Using this command you can create the new branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/b64c0628-91e5-4d8e-a671-5e92b4b9815a" width = "700" height = "40"/>
@@ -83,6 +84,7 @@
 
   >><p>It is a way to combine the work to differet branches together.</p>
   >><p>Allows to branch off, develop a new feature & combine it back in.</p>
+  
   >>#### **git merge <destination-branch\>**
   >><p>Using this command you can merge the destination branch to current branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/b50ceb8e-a4c7-4818-98ec-aa1dfc4867d0" width = "700" height = "40"/>
