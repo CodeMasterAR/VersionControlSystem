@@ -27,3 +27,19 @@
     ### **git remote set-url origin <correct-url\>**
     <p>Using this command you can set correct url in to add origin</p>
     <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/44465628-34d1-45fc-b52f-b7bb69883294" width = "900" height = "40"/>
+
+## Making Changes
+
+  ### **git status**
+  <p>Tells you which files are added to index and are ready to commit.</p>
+  <img src = "" width = "" height = ""/>
+
+  ### **git add**
+  <p>Lets you add files to your index.</p>
+  <img src = "" width = "" height = ""/>
+
+  ### **git commit -m <message or comment\>**
+  <p>It refers to recording snapshots of the repository at a given time.</p>
+  <p>Commited snapshots will never change unless done explicitly</p>
+  <img src = "" width = "" height = ""/>
+  
