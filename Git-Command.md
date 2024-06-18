@@ -96,7 +96,8 @@
   >>- <p>If we don't merge and try to commit the newly modified demofile4 to a new branch called the first branch, it won't be modified in the master branch.</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/c0c040f0-42b3-43e0-b4f0-5d54b1759a8e" width = "800" height = "270"/>
    
-  #### _3) Rebaing_
+  #### _3) Rebasing_
 
   >><p>This is also a way to combining the work between different branches.</p>
   >><p>It can be used to make a linear sequence of commits</p>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/50c5675f-56a1-4f1f-9b27-56e0889d62dd" width = "900" height = "500"/>
