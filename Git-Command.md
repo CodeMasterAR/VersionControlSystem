@@ -45,11 +45,12 @@
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/60be0a58-62ce-49bd-8359-188fd7a0e6ef" width = "800" height = "400"/>
   
   >><p>Copy the highlighted part. Your SSH key is generated in this path. You can see the key using the cat command.</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/91b273ee-e137-48b5-8c41-0dc06d07004d" width = "800" height = "100"/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/91b273ee-e137-48b5-8c41-0dc06d07004d" width = "1000" height = "150"/>
 
   >><p>Copy the generated key. Now follow the path which given below: </p>
   
-  >>#### *Settings > *
+  >>#### *Settings \> *
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/2fd0c4d7-b348-4c30-a3f8-c96a4fa0fa4d" width = "800" height = "600"/>
   
 ## Making Changes
 
