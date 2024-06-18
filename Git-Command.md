@@ -11,7 +11,8 @@
 ## Syncing Repository
 
   #### *1) git remote*
-  
+
+  >>#### **HTTPS link**
   >>- <p>Copy the link from below</p> 
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/87f48ba1-3183-4779-8dd1-62898b64b5e4" width = "400" height = "300" />
 
@@ -29,6 +30,15 @@
   >>### **git remote set-url origin <correct-url\>**
   >><p>Using this command you can set correct url in to add origin</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/44465628-34d1-45fc-b52f-b7bb69883294" width = "900" height = "40"/>
+
+  >>#### **SSH link**
+  >>- <p>Using SSH (Secure Shell) links in Git repositories offers several benefits over using HTTPS links.</p>
+  >>#### *Benefits of SSH key*
+  >>+ <p>Enhanced Security</p>
+  >>+ <p>Convenience</p>
+  >>+ <p>Consistency</p>
+  >>+ <p>Firewall and Proxy Friendly</p>
+  
 
 ## Making Changes
 
