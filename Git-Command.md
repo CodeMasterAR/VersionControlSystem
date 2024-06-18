@@ -94,7 +94,7 @@
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/6034c274-ec25-4120-a653-ebcc2c0ef4a4" width = "800" height = "180"/>
 
   >>- <p>If we don't merge and try to commit the newly modified demofile4 to a new branch called the first branch, it won't be modified in the master branch.</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/c0c040f0-42b3-43e0-b4f0-5d54b1759a8e" width = "800" height = "200"/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/c0c040f0-42b3-43e0-b4f0-5d54b1759a8e" width = "800" height = "250"/>
    
   #### _3) Rebaing_
 
