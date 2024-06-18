@@ -80,6 +80,8 @@
   >>#### **git checkout <branch-name\>**
   >><p>Using this command you can switch one current branch to given branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a0162c5a-d64a-4c37-af48-a468ef5be6b9" width = "700" height = "50"/>
+
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/68ea85b6-d60f-4ce4-8950-96d6eab33bdf" width = "800" height = "250"/>
   
   #### _2) Merging_
 
@@ -91,3 +93,6 @@
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/b50ceb8e-a4c7-4818-98ec-aa1dfc4867d0" width = "700" height = "40"/>
   
   #### _3) Rebaing_
+
+  >><p>This is also a way to combining the work between different branches.</p>
+  >><p>It can be used to make a linear sequence of commits</p>
