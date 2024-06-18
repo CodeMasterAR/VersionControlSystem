@@ -1,4 +1,4 @@
-# Git Commands
+![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/989c0f7e-810a-4efd-90a8-f4932c03d928)# Git Commands
 
 ## Create Repository
 
@@ -28,7 +28,7 @@
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a86232a6-5286-4ef0-9b27-2cec07cfccc5" width = "700" height = "80"/>
 
   >>### **git remote set-url origin <correct-url\>**
-  >><p>Using this command you can set correct url in to add origin</p>
+  >><p>Using this command you can set the correct url to add the root</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/44465628-34d1-45fc-b52f-b7bb69883294" width = "900" height = "40"/>
 
   >>#### **SSH link**
@@ -55,6 +55,13 @@
   >>### **ssh -T git@github.com**
   >><p>You can authenticate the ssh key using the above command.</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9ee7490b-877b-4da6-95b1-1b1e83f55e3e" width = "800" height = "50"/>
+
+  #### *1) git push*
+
+  >>### **git push origin <branch-name\>**
+  >><p>Using this command you can push your local repository work to a remote repository</p>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/1f197695-b32a-442b-ae65-ee0a90798555" width = "800" height = "250"/>
+  <img src = "" width = "800" height = "250"/>
   
 ## Making Changes
 
