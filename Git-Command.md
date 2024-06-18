@@ -100,4 +100,4 @@
 
   >><p>This is also a way to combining the work between different branches.</p>
   >><p>It can be used to make a linear sequence of commits</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/f46bdb41-f4e4-4774-9b2d-85d287e2b976" width = "900" height = "500"/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/f46bdb41-f4e4-4774-9b2d-85d287e2b976" width = "900" height = "600"/>
