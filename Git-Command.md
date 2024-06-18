@@ -39,8 +39,11 @@
   >>+ <p>Consistency</p>
   >>+ <p>Firewall and Proxy Friendly</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/e1617923-0ceb-45b2-93fb-dfeb6251331f" width = "400" height = "300"/>
-  
 
+  >>### **ssh-keygen**
+  >><p>You must generate an SSH key to use the SSH link.</p>
+  <img src = "" width = "" height = ""/>
+  
 ## Making Changes
 
   #### *1) git status*
