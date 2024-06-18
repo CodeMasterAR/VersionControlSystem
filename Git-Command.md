@@ -91,9 +91,7 @@
   
   >>#### **git merge <destination-branch\>**
   >><p>Using this command you can merge the destination branch to current branch</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/b50ceb8e-a4c7-4818-98ec-aa1dfc4867d0" width = "700" height = "40"/>
-
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/6034c274-ec25-4120-a653-ebcc2c0ef4a4" width = "800" height = "200"/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/6034c274-ec25-4120-a653-ebcc2c0ef4a4" width = "800" height = "180"/>
   
   #### _3) Rebaing_
 
