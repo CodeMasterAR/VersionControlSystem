@@ -14,7 +14,7 @@
 
   >>#### **HTTPS link**
   >>- <p>Copy the link from below</p> 
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/87f48ba1-3183-4779-8dd1-62898b64b5e4" width = "400" height = "300" />
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/76598064-1829-4b14-a843-8f82cf20c9a1" width = "400" height = "300" />
 
   >>### **git remote add origin <past-link-here\>**
   >><p>Using this command you can sync remote repository with your local repository.</p>
