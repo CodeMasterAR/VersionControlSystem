@@ -81,6 +81,7 @@
   >><p>Using this command you can switch one current branch to given branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a0162c5a-d64a-4c37-af48-a468ef5be6b9" width = "700" height = "50"/>
 
+  >><p>I have created a demofile4 and commited in the new created branch called first branch, Then it only shaw in new created branch not in master branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/68ea85b6-d60f-4ce4-8950-96d6eab33bdf" width = "800" height = "250"/>
   
   #### _2) Merging_
