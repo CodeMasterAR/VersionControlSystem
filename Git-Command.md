@@ -45,7 +45,7 @@
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/60be0a58-62ce-49bd-8359-188fd7a0e6ef" width = "800" height = "400"/>
   
   >><p>Copy the highlighted part. Your SSH key is generated in this path. You can see the key using the cat command.</p>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/91b273ee-e137-48b5-8c41-0dc06d07004d" width = "1000" height = "120"/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/91b273ee-e137-48b5-8c41-0dc06d07004d" width = "1000" height = "100"/>
 
   >><p>Copy the generated key and paste to the given path: </p>
   
@@ -61,7 +61,8 @@
   >>### **git push origin <branch-name\>**
   >><p>Using this command you can push your local repository work to a remote repository</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/1f197695-b32a-442b-ae65-ee0a90798555" width = "800" height = "250"/>
-  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9f865e18-e7f9-4b43-9d16-c0cb269af5de" width = "800" height = "250"/>
+  >><p>You can see that all the files from local repository to remote repository</p>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9f865e18-e7f9-4b43-9d16-c0cb269af5de" width = "300" height = "200"/>
   
 ## Making Changes
 
