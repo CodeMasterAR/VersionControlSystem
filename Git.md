@@ -7,37 +7,34 @@
   1) Central Repository
   2) Local Repository
 
-![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/2361f709-f664-41c6-adf6-a250969cb156)
+<img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/2361f709-f664-41c6-adf6-a250969cb156" width = "600" height = "500"/>
 
 ## Git Operations and commands
 
-![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/58dec06f-27c9-4b32-996f-38ec3fca7afe)
+<img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/58dec06f-27c9-4b32-996f-38ec3fca7afe" width = "600" height = "500"/>
 
 ### Create Repository
 
-![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a748f56e-6696-4a27-8f5c-a82edd146ea0)
+<img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a748f56e-6696-4a27-8f5c-a82edd146ea0" width = "600" height = "500"/>
 
 ### Syncing Repository
 
-![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/f64754a2-1c32-4761-ba44-fd3df450565f)
+<img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/f64754a2-1c32-4761-ba44-fd3df450565f" width = "600" height = "500"/>
 
 ### Making Changes
 
-![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/85da4df5-e7af-45c1-8f94-5487497afb3f)
+<img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/85da4df5-e7af-45c1-8f94-5487497afb3f" width = "600" height = "500"/>
 
 ### Parallel Development
   - Branching
-    ![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/300b489c-cfe2-46cc-8f19-af7a6ce878af)
+    <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/300b489c-cfe2-46cc-8f19-af7a6ce878af" width = "600" height = "500"/>
 
   - Merging
-    ![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/3e7e387d-aab3-4855-93fc-3e6eaa34a73a)
+    <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/3e7e387d-aab3-4855-93fc-3e6eaa34a73a" width = "600" height = "500"/>
 
   - Rebasing
-    ![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/4b562972-d1e9-4f09-969e-0229857af626)
+    <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/4b562972-d1e9-4f09-969e-0229857af626" width = "600" height = "500"/>
 
 ### Git Flow
 
-![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/4e41b7e7-530b-49aa-8659-b47cd9fb2582)
-
-
-
+<img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/4e41b7e7-530b-49aa-8659-b47cd9fb2582" width = "600" height = "500"/>
