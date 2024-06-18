@@ -19,7 +19,7 @@
   4) Mercurial
 
 ### Git and GitHub
-   ![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/7bb068cf-adfd-4b7f-94e1-fadb80734b10)
+   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/7bb068cf-adfd-4b7f-94e1-fadb80734b10" width = "600" height = "250"/>
 
 ### What is Git?
    - Git is a distributed version control system tool that supports distributed non-linear workflows by providing data assurance for developing quality software.
