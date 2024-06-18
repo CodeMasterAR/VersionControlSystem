@@ -34,7 +34,7 @@
 
   #### *1) git status*
   
-  >>#### **git status**
+  >>### **git status**
   >><p>Tells you which files are added to index and are ready to commit.</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/4140dcb2-01d9-468d-9c80-9244e1992ced" width = "900" height = "170"/>
       
@@ -46,23 +46,23 @@
       
   #### *2) git add*
     
-  >>#### **git add <file name\>**
+  >>### **git add <file name\>**
   >><p>Lets you add files to your index.</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9c11fc00-4cd7-445f-a354-c0be1908c0d3" width = "700" height = "40"/>
   
   >>- <p>If you have multiple files to add</p>
-   >> #### **git add -A**
+   >> ### **git add -A**
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/99000c40-70eb-4faa-afa8-58b35bfd7129" width = "700" height = "40"/>
   
   #### *3) git commit*
     
-  >>#### **git commit -m <message or comment\>**
+  >>### **git commit -m <message or comment\>**
   >><p>It refers to recording snapshots of the repository at a given time.</p>
   >><p>Commited snapshots will never change unless done explicitly</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/8fb6a276-f88e-416b-8dc7-4410174dad2b" width = "800" height = "100"/>
   
   >>- <p>If you have multiple files to commit</p>
-  >>#### **git commit -a -m <message or comment\>**
+  >>### **git commit -a -m <message or comment\>**
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/6452d7cb-cb8e-4288-96e3-01d704c665b7" width = "800" height = "120"/>
   
 ## Parallel Development
@@ -75,11 +75,11 @@
   >>- <p>Local branches</p>
   >>- <p>Remote-tracking branches</p>
   
-  >>#### **git branch <branch-name\>**
+  >>### **git branch <branch-name\>**
   >><p>Using this command you can create the new branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/b64c0628-91e5-4d8e-a671-5e92b4b9815a" width = "700" height = "40"/>
   
-  >>#### **git checkout <branch-name\>**
+  >>### **git checkout <branch-name\>**
   >><p>Using this command you can switch one current branch to given branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/a0162c5a-d64a-4c37-af48-a468ef5be6b9" width = "700" height = "50"/>
 
@@ -91,7 +91,7 @@
   >><p>It is a way to combine the work to differet branches together.</p>
   >><p>Allows to branch off, develop a new feature & combine it back in.</p>
   
-  >>#### **git merge <destination-branch\>**
+  >>### **git merge <destination-branch\>**
   >><p>Using this command you can merge the destination branch to current branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/6034c274-ec25-4120-a653-ebcc2c0ef4a4" width = "800" height = "180"/>
 
