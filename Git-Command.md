@@ -92,7 +92,7 @@
   >>#### **git merge <destination-branch\>**
   >><p>Using this command you can merge the destination branch to current branch</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/6034c274-ec25-4120-a653-ebcc2c0ef4a4" width = "800" height = "180"/>
-  
+   
   #### _3) Rebaing_
 
   >><p>This is also a way to combining the work between different branches.</p>
