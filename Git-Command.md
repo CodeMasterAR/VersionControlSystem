@@ -56,13 +56,17 @@
   >><p>You can authenticate the ssh key using the above command.</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9ee7490b-877b-4da6-95b1-1b1e83f55e3e" width = "800" height = "50"/>
 
-  #### *1) git push*
+  #### *2) git push*
 
   >>### **git push origin <branch-name\>**
   >><p>Using this command you can push your local repository work to a remote repository</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/1f197695-b32a-442b-ae65-ee0a90798555" width = "800" height = "250"/>
   >><p>You can see that all the files from local repository to remote repository</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9f865e18-e7f9-4b43-9d16-c0cb269af5de" width = "300" height = "200"/>
+
+  #### *2) git pull*
+  >>### **git pull origin <branch-name\>**
+  >><p>Using this command you can pull your remote repository work to a local repository</p>
   
 ## Making Changes
 
