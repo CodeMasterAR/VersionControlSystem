@@ -1,4 +1,4 @@
-![image](https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/989c0f7e-810a-4efd-90a8-f4932c03d928)# Git Commands
+# Git Commands
 
 ## Create Repository
 
@@ -61,7 +61,7 @@
   >>### **git push origin <branch-name\>**
   >><p>Using this command you can push your local repository work to a remote repository</p>
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/1f197695-b32a-442b-ae65-ee0a90798555" width = "800" height = "250"/>
-  <img src = "" width = "800" height = "250"/>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9f865e18-e7f9-4b43-9d16-c0cb269af5de" width = "800" height = "250"/>
   
 ## Making Changes
 
