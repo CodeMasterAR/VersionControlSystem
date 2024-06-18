@@ -38,6 +38,7 @@
   >>+ <p>Convenience</p>
   >>+ <p>Consistency</p>
   >>+ <p>Firewall and Proxy Friendly</p>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/e1617923-0ceb-45b2-93fb-dfeb6251331f" width = "400" height = "300"/>
   
 
 ## Making Changes
