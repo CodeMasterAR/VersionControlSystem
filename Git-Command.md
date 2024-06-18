@@ -51,6 +51,10 @@
   
   >>#### *Settings \> SSH and GPG keys \> ADD NEW in SSH Key*
   <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/2fd0c4d7-b348-4c30-a3f8-c96a4fa0fa4d" width = "900" height = "500"/>
+
+  >>### **ssh -T git@github.com**
+  >><p>You can authenticate the ssh key using the above command.</p>
+  <img src = "https://github.com/CodeMasterAR/VersionControlSystem/assets/114680435/9ee7490b-877b-4da6-95b1-1b1e83f55e3e" width = "800" height = "50"/>
   
 ## Making Changes
 
